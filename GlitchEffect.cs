@@ -10,6 +10,7 @@ to make commercial use of the work
 */
 
 using UnityEngine;
+using UnityStandardAssets.ImageEffects;
 using UnityEditor;
 
 [ExecuteInEditMode]
